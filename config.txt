@@ -1,0 +1,2 @@
+example1: stringList ! --option1 -0
+example2: int ! --option2 -p
